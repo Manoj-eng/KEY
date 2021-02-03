@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+body{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+ul li{
+    margin: 0;
+    padding: 0;
+}
+.mainHead{
+    padding: 40px 0;
+}
+
+
+/* Header start Here */
+
+
+.outerHeader{
+    background-image: url(/about_us/header_img.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: auto;
+}
+
+.register-btn{
+   color: #3f3f3f;
+}
